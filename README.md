@@ -1,111 +1,88 @@
-<!-- Banner -->
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=160&section=header&text=Hi%20I'm%20Nidal%20Hasnaoui!&fontSize=40&fontColor=C9D1D9&animation=fadeIn" alt="Nidal Hasnaoui Banner"/>
-</div>
+# NIDAM
 
-<!-- Introduction -->
-<h2 align="center">🧑‍💻 Backend Developer | ♟️ Chess Tactician</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+coding+%26+logic;Love+building+backend+architectures;Chess+%2B+Code+%3D+Strategy" alt="Typing SVG" />
-</p>
+### We don't build websites. We build client systems.
 
----
+NIDAM is a digital systems agency focused on helping local businesses build a
+clear, connected, and conversion-focused digital presence.
 
-### 🧠 About Me
-
-- 🔧 Currently working on backend projects using **PHP, SQL, and Laravel**
-- 🔍 Learning advanced concepts in **PHP**, **Laravel**, and **API design** and **Node.js** and **Express**
-- 🤝 Open to collaboration on backend systems or automation tools
-- ♟️ Logic-driven: I see programming like chess — anticipate, plan, and execute
-- 🎯 Mission: Transform ideas into scalable, real-world applications
+We bring together the different parts of a business's online presence —
+website, social media, Google, WhatsApp, content, SEO, automation, and
+analytics — and turn them into one coherent system.
 
 ---
 
-### ⚙️ Tech Stack
+## 🧩 The Problem
 
-#### 🛠️ Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-thez-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+Most local businesses are already online.
 
+They may have:
 
-#### 🗃️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- Instagram
+- Facebook
+- Google Business
+- WhatsApp
+- A website
+- Advertisements
+- Content
+- Reviews
+- Booking systems
 
-#### 🧰 Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+But having digital tools doesn't mean having a **digital system**.
 
----
+These channels are often disconnected.
 
-### 🧪 Tools & Skills
+A customer may discover a business on Instagram, search for it on Google,
+visit a website, try to contact it through WhatsApp, and encounter a
+completely different experience at every step.
 
-- ✅ API Development (RESTful APIs)
-- ✅ Database Design & Optimization
-- ✅ MVC Architecture
-- ✅ Authentication & Authorization
-- ✅ Git Workflow (Branching, Merging, PRs)
-- ✅ Deployment (XAMPP, Localhost, GitHub Pages)
+The problem isn't always the lack of a website.
+
+The problem is **fragmentation**.
+
+> A business can have a strong digital presence and still have a weak
+> digital system.
 
 ---
 
-### 📂 Featured Projects
+# 🎯 The NIDAM Approach
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📝 **Todo List App** | Organize tasks with categories & difficulty | PHP, MySQL, Bootstrap |
-| 📊 **Data Dashboard** | Visualize data using charts and backend APIs | Flask, Pandas, Chart.js |
-| ♟️ **Chess Strategy Guide** | Learn chess with logic and coding | HTML, JS, Notion |
+NIDAM treats a business's digital presence as one interconnected system.
 
----
+Instead of asking:
 
-### 🏆 Certifications & Achievements
+> "Does this business have a website?"
 
-- 🎓 Completed Cybersecurity Labs on **TryHackMe**
-- 🎖️ Solved >100 Logic Challenges on **HackTheBox**
-- 🧠 Finished backend bootcamp: PHP & Laravel specialization
+We ask:
 
----
+> "How does a stranger become a customer?"
 
+We map the complete journey:
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&count_private=true" height="180" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidal-Hasnaoui-zed&theme=blueberry&hide_border=false" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidal-Hasnaoui-zed&theme=blueberry&show_icons=true&hide_border=false&layout=compact" />
-</p>
-
-
-
----
-
-
-### 📬 Contact Me
-
-- 📧 **nidal.dev.contact@gmail.com**
-- 💼 [LinkedIn (optional)](https://linkedin.com)
-- 🌐 [Portfolio (optional)](https://your-portfolio-link.com)
- 
----
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidal-Hasnaoui-zed&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
+```text
+DISCOVERY
+    ↓
+Instagram / Google / Search / Content
+    ↓
+INTEREST
+    ↓
+Website / Social Profile / Content
+    ↓
+TRUST
+    ↓
+Reviews / Results / Information / Brand
+    ↓
+ACTION
+    ↓
+WhatsApp / Booking / Contact
+    ↓
+CONVERSION
+    ↓
+Customer
+    ↓
+FOLLOW-UP
+    ↓
+Retention / Reviews / Repeat Business
+    ↓
+DATA
+    ↓
+Optimization
